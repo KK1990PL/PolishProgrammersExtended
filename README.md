@@ -6,5 +6,6 @@ W przypadku, gdyby (np. na niektórych laptopach) instalacja była zablokowana w
 
 Ilustracja układu:<img width="1920" height="641" alt="POL pr" src="https://github.com/user-attachments/assets/c4433112-6b1a-435d-86aa-d10bba3e0f18" />
 
-<img width="4008" height="2925" alt="POL progr full" src="https://github.com/user-attachments/assets/3ed9aa96-34fe-4312-b958-ab39e9e18cef" />
+<img width="4008" height="2925" alt="POL progr full" src="https://github.com/user-attachments/assets/aee299f9-822a-42dc-ba37-0df420a8e456" />
+
 
